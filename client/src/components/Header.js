@@ -53,7 +53,7 @@ class Header extends Component {
             )
         }
     }
-
+ 
     renderLoginLink = () => {
         if (this.props.ebayAppStore.userInfo.id === null) {
             return (
