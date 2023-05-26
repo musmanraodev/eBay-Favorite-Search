@@ -67,4 +67,4 @@ eBay Favorite Search App allows you to instantly search items from eBay, and add
   
  
  
-![alt text](https://raw.githubusercontent.com/musmanraoDev/eBay-Favorite-Search/master/client/src/images/screenshot.png)
+![alt text](https://raw.githubusercontent.com/musmanraodev/eBay-Favorite-Search/master/client/src/images/screenshot.png)
